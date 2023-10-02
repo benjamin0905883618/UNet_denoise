@@ -16,9 +16,7 @@ The Dice Loss is designed to optimize the performance of models by encouraging a
 
 The Dice Loss is defined as follows:
 
-\begin{gather}
-\mbox{Dice Loss} = 1 - \cfrac{2 * \mbox{Intersection} }{\mbox{Union} + \mbox{Intersection}}
-\end{gather}
+![](./function/diceloss.png) 
 
 ## Experiments
 
